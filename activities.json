@@ -1,3 +1,17 @@
 {
-  "activities": []
+  "activities": [
+    {
+      "id": "54833d97-4427-419a-a22c-22c086d7954a",
+      "className": "XII",
+      "title": "Dandiya",
+      "date": "Fri Oct 16 2026 00:00:00 GMT+0530 (India Standard Time)",
+      "description": "NICE",
+      "images": [
+        "https://drive.google.com/thumbnail?id=17_1ynVvAqAJpA-8p_huV-oSMTrCmjaPM&sz=w1600",
+        "https://drive.google.com/thumbnail?id=1BzQ00jjAH3YF8KtvvCbuUZINV9I8PJmN&sz=w1600",
+        "https://drive.google.com/thumbnail?id=1ioCbBjpigR4TNEDm9no4jbn5Si1dCy2R&sz=w1600",
+        "https://drive.google.com/thumbnail?id=1-GjLrZJDY4pNjddLcCGzdNFDR0NlgOeM&sz=w1600"
+      ]
+    }
+  ]
 }
